@@ -14,7 +14,7 @@
   "dependencies": {
     "native-base": "^2.3.9",
     "react": "16.2.0",
-    "react-native": "0.53.3",
+    "react-native": "0.70.6",
     "react-native-barcode-builder": "^1.0.3",
     "react-native-cardview": "^1.1.5",
     "react-native-easy-grid": "^0.1.17",
